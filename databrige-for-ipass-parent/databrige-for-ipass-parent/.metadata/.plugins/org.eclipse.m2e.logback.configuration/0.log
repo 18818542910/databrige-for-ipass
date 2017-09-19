@@ -1,0 +1,227 @@
+2017-09-19 17:56:06,671 [Worker-7] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-09-19 17:58:58,632 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shudi.databrigeforipass.eurekaserver:databrigeforipass-eureka-server:0.0.1-SNAPSHOT @ E:\dataBrigeForPass\ipassCode\com.shudi.databrigeforipass\databrigeforipass-eureka-server\pom.xml.
+2017-09-19 17:59:03,579 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /databrigeforipass-eureka-server/src/main/java
+2017-09-19 17:59:03,580 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /databrigeforipass-eureka-server/src/main/resources
+2017-09-19 17:59:03,587 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /databrigeforipass-eureka-server/src/main/resources
+2017-09-19 17:59:03,607 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /databrigeforipass-eureka-server/src/test/java
+2017-09-19 17:59:10,350 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 16 sec
+2017-09-19 17:59:10,353 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-09-19 17:59:10,983 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shudi.databrigeforipass.eurekaserver:databrigeforipass-eureka-server:0.0.1-SNAPSHOT @ E:\dataBrigeForPass\ipassCode\com.shudi.databrigeforipass\databrigeforipass-eureka-server\pom.xml.
+2017-09-19 17:59:12,056 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /databrigeforipass-eureka-server/src/main/java
+2017-09-19 17:59:12,056 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /databrigeforipass-eureka-server/src/main/resources
+2017-09-19 17:59:12,057 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /databrigeforipass-eureka-server/src/main/resources
+2017-09-19 17:59:12,057 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /databrigeforipass-eureka-server/src/test/java
+2017-09-19 17:59:12,286 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2017-09-19 17:59:17,414 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-19 17:59:17,420 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-09-19 17:59:17,432 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-19 17:59:17,438 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-19 17:59:17,438 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dataBrigeForPass\ipassCode\com.shudi.databrigeforipass\databrigeforipass-eureka-server\src\test\resources
+2017-09-19 18:00:04,713 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shudi.databrigeforipass.eurekaserver:databrigeforipass-eureka-server:0.0.1-SNAPSHOT @ E:\dataBrigeForPass\ipassCode\com.shudi.databrigeforipass\databrigeforipass-eureka-server\pom.xml.
+2017-09-19 18:00:07,547 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-19 18:00:07,549 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-09-19 18:00:07,562 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-19 18:00:07,565 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-19 18:00:07,565 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dataBrigeForPass\ipassCode\com.shudi.databrigeforipass\databrigeforipass-eureka-server\src\test\resources
+2017-09-19 18:00:40,057 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://192.168.1.113:8081/repository/pursuer-group/org/springframework/cloud/spring-cloud-dependencies/${spring-cloud.version}/spring-cloud-dependencies-${spring-cloud.version}.pom
+2017-09-19 18:00:40,485 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shudi.databrigeforipass.eurekaserver:databrigeforipass-eureka-server:0.0.1-SNAPSHOT @ E:\dataBrigeForPass\ipassCode\com.shudi.databrigeforipass\databrigeforipass-eureka-server\pom.xml.
+2017-09-19 18:01:36,239 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-09-19 18:01:36,294 [Worker-31] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://192.168.1.113:8081/repository/pursuer-group/org/springframework/cloud/spring-cloud-dependencies/${spring-cloud.version}/spring-cloud-dependencies-${spring-cloud.version}.pom
+2017-09-19 18:01:36,737 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shudi.databrigeforipass.eurekaserver:databrigeforipass-eureka-server:0.0.1-SNAPSHOT @ E:\dataBrigeForPass\ipassCode\com.shudi.databrigeforipass\databrigeforipass-eureka-server\pom.xml.
+2017-09-19 18:01:36,893 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /databrigeforipass-eureka-server/src/main/java
+2017-09-19 18:01:36,893 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /databrigeforipass-eureka-server/src/main/resources
+2017-09-19 18:01:36,893 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /databrigeforipass-eureka-server/src/main/resources
+2017-09-19 18:01:36,894 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /databrigeforipass-eureka-server/src/test/java
+2017-09-19 18:01:37,003 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-09-19 18:01:43,534 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shudi.databrigeforipass.eurekaserver:databrigeforipass-eureka-server:0.0.1-SNAPSHOT @ E:\dataBrigeForPass\ipassCode\com.shudi.databrigeforipass\databrigeforipass-eureka-server\pom.xml.
+2017-09-19 18:02:40,447 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.shudi.databrigeforipass.eurekaserver:databrigeforipass-eureka-server:0.0.1-SNAPSHOT @ E:\dataBrigeForPass\ipassCode\com.shudi.databrigeforipass\databrigeforipass-eureka-server\pom.xml.
+2017-09-19 18:03:12,983 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shudi.databrigeforipass.eurekaserver:databrigeforipass-eureka-server:0.0.1-SNAPSHOT @ E:\dataBrigeForPass\ipassCode\com.shudi.databrigeforipass\databrigeforipass-eureka-server\pom.xml.
+2017-09-19 18:03:13,817 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-19 18:03:13,819 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-19 18:03:13,819 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-19 18:03:13,822 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-19 18:03:13,822 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dataBrigeForPass\ipassCode\com.shudi.databrigeforipass\databrigeforipass-eureka-server\src\test\resources
+2017-09-19 18:03:15,606 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-19 18:03:15,607 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-09-19 18:03:15,620 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-19 18:03:15,623 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-19 18:03:15,623 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dataBrigeForPass\ipassCode\com.shudi.databrigeforipass\databrigeforipass-eureka-server\src\test\resources
+2017-09-19 18:07:29,513 [Worker-34] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://192.168.1.113:8081/repository/pursuer-group/org/springframework/boot/spring-boot-maven-plugin/maven-metadata.xml
+2017-09-19 18:07:29,544 [Worker-34] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://192.168.1.113:8081/repository/pursuer-group/org/springframework/boot/spring-boot-maven-plugin/maven-metadata.xml
+2017-09-19 18:07:29,821 [Worker-34] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shudi.databrigeforipass.eurekaserver:databrigeforipass-eureka-server:0.0.1-SNAPSHOT @ E:\dataBrigeForPass\ipassCode\com.shudi.databrigeforipass\databrigeforipass-eureka-server\pom.xml.
+2017-09-19 18:08:14,040 [Worker-34] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://192.168.1.113:8081/repository/pursuer-group/com/shudi/databrigeforipass/parent/com.shudi.databrigeforipass/0.0.1-SNAPSHOT/maven-metadata.xml
+2017-09-19 18:08:14,072 [Worker-34] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://192.168.1.113:8081/repository/pursuer-group/com/shudi/databrigeforipass/parent/com.shudi.databrigeforipass/0.0.1-SNAPSHOT/com.shudi.databrigeforipass-0.0.1-SNAPSHOT.pom
+2017-09-19 18:08:18,832 [Worker-33] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Failed to read Maven project: 1 problem was encountered while building the effective model for com.shudi.databrigeforipass.eurekaserver:databrigeforipass-eureka-server:0.0.1-SNAPSHOT
+[FATAL] Non-resolvable parent POM for com.shudi.databrigeforipass.eurekaserver:databrigeforipass-eureka-server:0.0.1-SNAPSHOT: Failure to find com.shudi.databrigeforipass.parent:com.shudi.databrigeforipass:pom:0.0.1-SNAPSHOT in http://192.168.1.113:8081/repository/pursuer-group/ was cached in the local repository, resolution will not be reattempted until the update interval of pursuer has elapsed or updates are forced and 'parent.relativePath' points at no local POM @ line 14, column 10
+ for project com.shudi.databrigeforipass.eurekaserver:databrigeforipass-eureka-server:0.0.1-SNAPSHOT at E:\dataBrigeForPass\ipassCode\com.shudi.databrigeforipass\databrigeforipass-eureka-server\pom.xml
+org.apache.maven.project.ProjectBuildingException: 1 problem was encountered while building the effective model for com.shudi.databrigeforipass.eurekaserver:databrigeforipass-eureka-server:0.0.1-SNAPSHOT
+[FATAL] Non-resolvable parent POM for com.shudi.databrigeforipass.eurekaserver:databrigeforipass-eureka-server:0.0.1-SNAPSHOT: Failure to find com.shudi.databrigeforipass.parent:com.shudi.databrigeforipass:pom:0.0.1-SNAPSHOT in http://192.168.1.113:8081/repository/pursuer-group/ was cached in the local repository, resolution will not be reattempted until the update interval of pursuer has elapsed or updates are forced and 'parent.relativePath' points at no local POM @ line 14, column 10
+ for project com.shudi.databrigeforipass.eurekaserver:databrigeforipass-eureka-server:0.0.1-SNAPSHOT at E:\dataBrigeForPass\ipassCode\com.shudi.databrigeforipass\databrigeforipass-eureka-server\pom.xml
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:168) ~[maven-core-3.3.9.jar:3.3.9]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:119) ~[maven-core-3.3.9.jar:3.3.9]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProject(MavenImpl.java:636) ~[org.eclipse.m2e.core_1.8.0.20170516-2043.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:816) ~[org.eclipse.m2e.core_1.8.0.20170516-2043.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$5.call(ProjectRegistryManager.java:1) ~[org.eclipse.m2e.core_1.8.0.20170516-2043.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) ~[org.eclipse.m2e.core_1.8.0.20170516-2043.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) ~[org.eclipse.m2e.core_1.8.0.20170516-2043.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) ~[org.eclipse.m2e.core_1.8.0.20170516-2043.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:967) ~[org.eclipse.m2e.core_1.8.0.20170516-2043.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:811) ~[org.eclipse.m2e.core_1.8.0.20170516-2043.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.create(ProjectRegistryManager.java:192) ~[org.eclipse.m2e.core_1.8.0.20170516-2043.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.create(MavenProjectManager.java:80) [org.eclipse.m2e.core_1.8.0.20170516-2043.jar:na]
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:259) [org.eclipse.m2e.core.ui_1.8.0.20170516-2043.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:742) [org.eclipse.m2e.editor_1.8.0.20170516-2043.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$5.run(MavenPomEditor.java:1077) [org.eclipse.m2e.editor_1.8.0.20170516-2043.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.0.v20170322-0013.jar:na]
+Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was encountered while building the effective model for com.shudi.databrigeforipass.eurekaserver:databrigeforipass-eureka-server:0.0.1-SNAPSHOT
+[FATAL] Non-resolvable parent POM for com.shudi.databrigeforipass.eurekaserver:databrigeforipass-eureka-server:0.0.1-SNAPSHOT: Failure to find com.shudi.databrigeforipass.parent:com.shudi.databrigeforipass:pom:0.0.1-SNAPSHOT in http://192.168.1.113:8081/repository/pursuer-group/ was cached in the local repository, resolution will not be reattempted until the update interval of pursuer has elapsed or updates are forced and 'parent.relativePath' points at no local POM @ line 14, column 10
+
+	at org.apache.maven.model.building.DefaultModelProblemCollector.newModelBuildingException(DefaultModelProblemCollector.java:197) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.building.DefaultModelBuilder.readParentExternally(DefaultModelBuilder.java:1029) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.building.DefaultModelBuilder.readParent(DefaultModelBuilder.java:800) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.apache.maven.model.building.DefaultModelBuilder.build(DefaultModelBuilder.java:329) ~[maven-model-builder-3.3.9.jar:3.3.9]
+	at org.apache.maven.project.DefaultProjectBuilder.build(DefaultProjectBuilder.java:161) ~[maven-core-3.3.9.jar:3.3.9]
+	... 15 common frames omitted
+2017-09-19 18:08:29,631 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-09-19 18:08:29,663 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://192.168.1.113:8081/repository/pursuer-group/com/shudi/databrigeforipass/parent/com.shudi.databrigeforipass/0.0.1-SNAPSHOT/maven-metadata.xml
+2017-09-19 18:08:29,696 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://192.168.1.113:8081/repository/pursuer-group/com/shudi/databrigeforipass/parent/com.shudi.databrigeforipass/0.0.1-SNAPSHOT/com.shudi.databrigeforipass-0.0.1-SNAPSHOT.pom
+2017-09-19 18:08:29,698 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-09-19 18:08:42,412 [Worker-33] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-09-19 18:08:42,904 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://192.168.1.113:8081/repository/pursuer-group/com/shudi/databrigeforipass/parent/com.shudi.databrigeforipass/0.0.1-SNAPSHOT/maven-metadata.xml
+2017-09-19 18:08:43,006 [Worker-33] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://192.168.1.113:8081/repository/pursuer-group/com/shudi/databrigeforipass/parent/com.shudi.databrigeforipass/0.0.1-SNAPSHOT/com.shudi.databrigeforipass-0.0.1-SNAPSHOT.pom
+2017-09-19 18:08:43,018 [Worker-33] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-09-19 18:09:18,253 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shudi.databrigeforipass.eurekaserver:databrigeforipass-eureka-server:0.0.1-SNAPSHOT @ E:\dataBrigeForPass\ipassCode\com.shudi.databrigeforipass\databrigeforipass-eureka-server\pom.xml.
+2017-09-19 18:09:19,014 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-19 18:09:19,015 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-19 18:09:19,016 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-19 18:09:19,018 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-19 18:09:19,018 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dataBrigeForPass\ipassCode\com.shudi.databrigeforipass\databrigeforipass-eureka-server\src\test\resources
+2017-09-19 18:09:23,417 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-19 18:09:23,418 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-09-19 18:09:23,430 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-19 18:09:23,433 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-19 18:09:23,433 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dataBrigeForPass\ipassCode\com.shudi.databrigeforipass\databrigeforipass-eureka-server\src\test\resources
+2017-09-19 18:25:54,470 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-09-19 18:25:57,330 [Worker-3] ERROR o.e.m2e.editor.pom.MavenPomEditor - failed to load maven project for org.eclipse.ui.part.FileEditorInput(/databrigeforipass-eureka-server/pom.xml)
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:804) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$6.call(ProjectRegistryManager.java:1010) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$6.call(ProjectRegistryManager.java:1) ~[na:na]
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:5065) ~[na:na]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3716) ~[na:na]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2424) ~[na:na]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2298) ~[na:na]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2211) ~[na:na]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4154) ~[na:na]
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:5060) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1008) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:242) ~[na:na]
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:261) ~[org.eclipse.m2e.core.ui_1.8.0.20170516-2043.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:742) ~[na:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$5.run(MavenPomEditor.java:1077) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.0.v20170322-0013.jar:na]
+2017-09-19 18:26:27,579 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shudi.databrigeforipass.eurekaserver:databrige-for-ipass-eureka-server:0.0.1-SNAPSHOT @ E:\dataBrigeForPass\ipassCode\databrige-for-ipass-parent\databrige-for-ipass-eureka-server\pom.xml.
+2017-09-19 18:26:28,904 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /databrige-for-ipass-eureka-server/src/main/java
+2017-09-19 18:26:28,905 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /databrige-for-ipass-eureka-server/src/main/resources
+2017-09-19 18:26:28,915 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /databrige-for-ipass-eureka-server/src/main/resources
+2017-09-19 18:26:28,932 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /databrige-for-ipass-eureka-server/src/test/java
+2017-09-19 18:26:29,278 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2017-09-19 18:26:29,281 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-09-19 18:26:29,862 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shudi.databrigeforipass.eurekaserver:databrige-for-ipass-eureka-server:0.0.1-SNAPSHOT @ E:\dataBrigeForPass\ipassCode\databrige-for-ipass-parent\databrige-for-ipass-eureka-server\pom.xml.
+2017-09-19 18:26:31,918 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /databrige-for-ipass-eureka-server/src/main/java
+2017-09-19 18:26:31,919 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /databrige-for-ipass-eureka-server/src/main/resources
+2017-09-19 18:26:31,922 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /databrige-for-ipass-eureka-server/src/main/resources
+2017-09-19 18:26:31,929 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /databrige-for-ipass-eureka-server/src/test/java
+2017-09-19 18:26:32,192 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2017-09-19 18:26:33,815 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-19 18:26:33,820 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-09-19 18:26:33,834 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-19 18:26:33,843 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-19 18:26:33,843 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dataBrigeForPass\ipassCode\databrige-for-ipass-parent\databrige-for-ipass-eureka-server\src\test\resources
+2017-09-19 18:26:43,365 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-19 18:26:43,367 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-19 18:26:43,368 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-19 18:26:43,371 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-19 18:26:43,372 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dataBrigeForPass\ipassCode\databrige-for-ipass-parent\databrige-for-ipass-eureka-server\src\test\resources
+2017-09-19 18:37:55,231 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shudi.databrigeforipass.eurekaserver:databrige-for-ipass-config-server:0.0.1-SNAPSHOT @ E:\dataBrigeForPass\ipassCode\databrige-for-ipass-parent\databrige-for-ipass-config-server\pom.xml.
+2017-09-19 18:37:55,625 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://192.168.1.113:8081/repository/pursuer-group/org/springframework/cloud/spring-cloud-config-server/1.3.2.RELEASE/spring-cloud-config-server-1.3.2.RELEASE.pom
+2017-09-19 18:37:55,872 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://192.168.1.113:8081/repository/pursuer-group/org/springframework/cloud/spring-cloud-config-server/1.3.2.RELEASE/spring-cloud-config-server-1.3.2.RELEASE.pom
+2017-09-19 18:37:56,021 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://192.168.1.113:8081/repository/pursuer-group/org/springframework/cloud/spring-cloud-config/1.3.2.RELEASE/spring-cloud-config-1.3.2.RELEASE.pom
+2017-09-19 18:37:56,205 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://192.168.1.113:8081/repository/pursuer-group/org/springframework/cloud/spring-cloud-config/1.3.2.RELEASE/spring-cloud-config-1.3.2.RELEASE.pom
+2017-09-19 18:37:56,397 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://192.168.1.113:8081/repository/pursuer-group/org/springframework/cloud/spring-cloud-config-client/1.3.2.RELEASE/spring-cloud-config-client-1.3.2.RELEASE.pom
+2017-09-19 18:37:56,589 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://192.168.1.113:8081/repository/pursuer-group/org/springframework/cloud/spring-cloud-config-client/1.3.2.RELEASE/spring-cloud-config-client-1.3.2.RELEASE.pom
+2017-09-19 18:37:56,930 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://192.168.1.113:8081/repository/pursuer-group/org/eclipse/jgit/org.eclipse.jgit/4.6.0.201612231935-r/org.eclipse.jgit-4.6.0.201612231935-r.pom
+2017-09-19 18:37:57,225 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://192.168.1.113:8081/repository/pursuer-group/org/eclipse/jgit/org.eclipse.jgit/4.6.0.201612231935-r/org.eclipse.jgit-4.6.0.201612231935-r.pom
+2017-09-19 18:37:57,472 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://192.168.1.113:8081/repository/pursuer-group/org/eclipse/jgit/org.eclipse.jgit-parent/4.6.0.201612231935-r/org.eclipse.jgit-parent-4.6.0.201612231935-r.pom
+2017-09-19 18:37:57,803 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://192.168.1.113:8081/repository/pursuer-group/org/eclipse/jgit/org.eclipse.jgit-parent/4.6.0.201612231935-r/org.eclipse.jgit-parent-4.6.0.201612231935-r.pom
+2017-09-19 18:37:58,015 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://192.168.1.113:8081/repository/pursuer-group/com/jcraft/jsch/0.1.53/jsch-0.1.53.pom
+2017-09-19 18:37:58,197 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://192.168.1.113:8081/repository/pursuer-group/com/jcraft/jsch/0.1.53/jsch-0.1.53.pom
+2017-09-19 18:37:58,248 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://192.168.1.113:8081/repository/pursuer-group/org/sonatype/oss/oss-parent/6/oss-parent-6.pom
+2017-09-19 18:37:58,456 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://192.168.1.113:8081/repository/pursuer-group/org/sonatype/oss/oss-parent/6/oss-parent-6.pom
+2017-09-19 18:37:58,644 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://192.168.1.113:8081/repository/pursuer-group/com/googlecode/javaewah/JavaEWAH/1.1.6/JavaEWAH-1.1.6.pom
+2017-09-19 18:37:58,835 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://192.168.1.113:8081/repository/pursuer-group/com/googlecode/javaewah/JavaEWAH/1.1.6/JavaEWAH-1.1.6.pom
+2017-09-19 18:37:59,176 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://192.168.1.113:8081/repository/pursuer-group/org/springframework/cloud/spring-cloud-config-server/1.3.2.RELEASE/spring-cloud-config-server-1.3.2.RELEASE.jar
+2017-09-19 18:37:59,649 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://192.168.1.113:8081/repository/pursuer-group/org/springframework/cloud/spring-cloud-config-server/1.3.2.RELEASE/spring-cloud-config-server-1.3.2.RELEASE.jar
+2017-09-19 18:37:59,991 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://192.168.1.113:8081/repository/pursuer-group/org/springframework/cloud/spring-cloud-config-client/1.3.2.RELEASE/spring-cloud-config-client-1.3.2.RELEASE.jar
+2017-09-19 18:38:00,200 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://192.168.1.113:8081/repository/pursuer-group/org/springframework/cloud/spring-cloud-config-client/1.3.2.RELEASE/spring-cloud-config-client-1.3.2.RELEASE.jar
+2017-09-19 18:38:00,451 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://192.168.1.113:8081/repository/pursuer-group/org/eclipse/jgit/org.eclipse.jgit/4.6.0.201612231935-r/org.eclipse.jgit-4.6.0.201612231935-r.jar
+2017-09-19 18:38:02,166 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://192.168.1.113:8081/repository/pursuer-group/org/eclipse/jgit/org.eclipse.jgit/4.6.0.201612231935-r/org.eclipse.jgit-4.6.0.201612231935-r.jar
+2017-09-19 18:38:02,545 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://192.168.1.113:8081/repository/pursuer-group/com/jcraft/jsch/0.1.53/jsch-0.1.53.jar
+2017-09-19 18:38:03,003 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://192.168.1.113:8081/repository/pursuer-group/com/jcraft/jsch/0.1.53/jsch-0.1.53.jar
+2017-09-19 18:38:03,310 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://192.168.1.113:8081/repository/pursuer-group/com/googlecode/javaewah/JavaEWAH/1.1.6/JavaEWAH-1.1.6.jar
+2017-09-19 18:38:03,654 [Worker-20] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://192.168.1.113:8081/repository/pursuer-group/com/googlecode/javaewah/JavaEWAH/1.1.6/JavaEWAH-1.1.6.jar
+2017-09-19 18:38:04,902 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /databrige-for-ipass-config-server/src/main/java
+2017-09-19 18:38:04,902 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /databrige-for-ipass-config-server/src/main/resources
+2017-09-19 18:38:04,910 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /databrige-for-ipass-config-server/src/main/resources
+2017-09-19 18:38:04,921 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /databrige-for-ipass-config-server/src/test/java
+2017-09-19 18:38:05,067 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 10 sec
+2017-09-19 18:38:05,069 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-09-19 18:38:05,290 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shudi.databrigeforipass.eurekaserver:databrige-for-ipass-config-server:0.0.1-SNAPSHOT @ E:\dataBrigeForPass\ipassCode\databrige-for-ipass-parent\databrige-for-ipass-config-server\pom.xml.
+2017-09-19 18:38:05,746 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /databrige-for-ipass-config-server/src/main/java
+2017-09-19 18:38:05,746 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /databrige-for-ipass-config-server/src/main/resources
+2017-09-19 18:38:05,751 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /databrige-for-ipass-config-server/src/main/resources
+2017-09-19 18:38:05,760 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /databrige-for-ipass-config-server/src/test/java
+2017-09-19 18:38:05,882 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-09-19 18:38:07,575 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-19 18:38:07,576 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-09-19 18:38:07,577 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-19 18:38:07,579 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-19 18:38:07,579 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dataBrigeForPass\ipassCode\databrige-for-ipass-parent\databrige-for-ipass-config-server\src\test\resources
+2017-09-19 18:38:08,810 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-19 18:38:08,811 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-19 18:38:08,811 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-19 18:38:08,813 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-19 18:38:08,813 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dataBrigeForPass\ipassCode\databrige-for-ipass-parent\databrige-for-ipass-config-server\src\test\resources
+2017-09-19 18:45:44,891 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shudi.databrigeforipass.eurekaserver:databrige-for-ipass-client-server:0.0.1-SNAPSHOT @ E:\dataBrigeForPass\ipassCode\databrige-for-ipass-parent\databrige-for-ipass-client-server\pom.xml.
+2017-09-19 18:45:45,181 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://192.168.1.113:8081/repository/pursuer-group/org/springframework/cloud/spring-cloud-starter-config/1.3.2.RELEASE/spring-cloud-starter-config-1.3.2.RELEASE.pom
+2017-09-19 18:45:45,403 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://192.168.1.113:8081/repository/pursuer-group/org/springframework/cloud/spring-cloud-starter-config/1.3.2.RELEASE/spring-cloud-starter-config-1.3.2.RELEASE.pom
+2017-09-19 18:45:45,737 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://192.168.1.113:8081/repository/pursuer-group/org/springframework/cloud/spring-cloud-starter-config/1.3.2.RELEASE/spring-cloud-starter-config-1.3.2.RELEASE.jar
+2017-09-19 18:45:46,031 [Worker-23] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://192.168.1.113:8081/repository/pursuer-group/org/springframework/cloud/spring-cloud-starter-config/1.3.2.RELEASE/spring-cloud-starter-config-1.3.2.RELEASE.jar
+2017-09-19 18:45:46,587 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /databrige-for-ipass-client-server/src/main/java
+2017-09-19 18:45:46,587 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /databrige-for-ipass-client-server/src/main/resources
+2017-09-19 18:45:46,595 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /databrige-for-ipass-client-server/src/main/resources
+2017-09-19 18:45:46,612 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /databrige-for-ipass-client-server/src/test/java
+2017-09-19 18:45:46,745 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2017-09-19 18:45:46,747 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-09-19 18:45:46,955 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shudi.databrigeforipass.eurekaserver:databrige-for-ipass-client-server:0.0.1-SNAPSHOT @ E:\dataBrigeForPass\ipassCode\databrige-for-ipass-parent\databrige-for-ipass-client-server\pom.xml.
+2017-09-19 18:45:47,333 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /databrige-for-ipass-client-server/src/main/java
+2017-09-19 18:45:47,333 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /databrige-for-ipass-client-server/src/main/resources
+2017-09-19 18:45:47,339 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /databrige-for-ipass-client-server/src/main/resources
+2017-09-19 18:45:47,343 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /databrige-for-ipass-client-server/src/test/java
+2017-09-19 18:45:47,403 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-09-19 18:45:48,447 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-19 18:45:48,447 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-09-19 18:45:48,448 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-19 18:45:48,450 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-19 18:45:48,450 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dataBrigeForPass\ipassCode\databrige-for-ipass-parent\databrige-for-ipass-client-server\src\test\resources
+2017-09-19 18:45:49,530 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-19 18:45:49,531 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-19 18:45:49,531 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-19 18:45:49,532 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-19 18:45:49,532 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dataBrigeForPass\ipassCode\databrige-for-ipass-parent\databrige-for-ipass-client-server\src\test\resources
+2017-09-19 22:45:34,950 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shudi.databrigeforipass.eurekaserver:databrige-for-ipass-config-server:0.0.1-SNAPSHOT @ E:\dataBrigeForPass\ipassCode\databrige-for-ipass-parent\databrige-for-ipass-config-server\pom.xml.
+2017-09-19 22:45:35,400 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-19 22:45:35,400 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-19 22:45:35,400 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-19 22:45:35,402 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-19 22:45:35,402 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\dataBrigeForPass\ipassCode\databrige-for-ipass-parent\databrige-for-ipass-config-server\src\test\resources
